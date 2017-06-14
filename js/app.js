@@ -13,7 +13,7 @@ $(document).ready(function() {
                    
                    
     //Requesting from the public api, can use with api key instead if wanted
-    var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
+    var flickerAPI = "https://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
    
    
    
